@@ -1,0 +1,3 @@
+[submodule "git-test-sub"]
+	path = git-test-sub
+	url = git@github.com:peter-song/git-test-sub.git
